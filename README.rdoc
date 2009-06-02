@@ -1,0 +1,6 @@
+=About
+A lightweight Akismet wrapper which was built for a specific need. It might be a bit rough around the edges, but... it could help if you're looking for something similar and don't like the alternatives.
+
+=Example
+
+see the example.php file
