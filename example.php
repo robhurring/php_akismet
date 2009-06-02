@@ -14,8 +14,8 @@
 */
 
 require_once('lib/class.akismet.php');
-define('BLOG', 'http://m.ubrio.us');
-define('AKISMET_API_TOKEN', '7b4c2799e2d9');
+define('BLOG', 'http://example.com');
+define('AKISMET_API_TOKEN', 'yourakismetapitoken');
 
 $comment1 = array(
   'comment_author'  => 'captain hook',
